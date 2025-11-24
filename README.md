@@ -52,7 +52,3 @@ This project analyzes urban and demographic data to assess the *Smart City Poten
 
 ## Contact
 For questions or contributions, please contact Pranay Pinjarkar at pinjarkarpranay1@gmail.com.
-
-
-## Contact
-For questions or contributions, please contact [Your Name] at [Your Email].
